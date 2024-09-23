@@ -71,9 +71,14 @@ This repository contains a simple Java implementation of the Chrome Dinosaur Gam
 - Implement more dinosaur animations.
 - Add difficulty progression as the game progresses.
 
+## Screenshot
+
+
+![Screenshot (1158)](https://github.com/user-attachments/assets/840791b9-be0d-4b7f-9d0d-9f6c2e105e59)
+
 ## License
 
-This project is licensed under the MIT License. Feel free to modify and distribute as needed. 
+This project is open-source and can be modified and distributed freely. Feel free to modify and distribute as needed. 
 
 ---
 
